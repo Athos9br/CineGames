@@ -22,13 +22,13 @@ O projeto foi desenvolvido como atividade de Programação Web. A ideia foi prat
 3. Instale as dependências:
 
    ```bash
-   npm install
+   npm.cmd start
    ```
 
 4. Inicie o servidor:
 
    ```bash
-   npm start
+  npm.cmd install
    ```
 
 5. Abra o navegador no endereço:
