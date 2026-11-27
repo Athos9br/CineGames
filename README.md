@@ -28,7 +28,7 @@ O projeto foi desenvolvido como atividade de Programação Web. A ideia foi prat
 4. Inicie o servidor:
 
    ```bash
-  npm.cmd install
+    npm.cmd install
    ```
 
 5. Abra o navegador no endereço:
